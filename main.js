@@ -6,7 +6,7 @@ btn.addEventListener("click", output);
 
 var storyText = "It was 94 fahrenheit outside, so :randName:  went for a walk. When he got to :randPlace:, he stared in horror for a few moments, then :randEvent:. Bob saw the whole thing, but he was not surprised — :randName: is :randNoun:, and it was a hot day."
 
-var names = [ "Poseidon", "the zombie", "Snoop Dogg", "Justin Beiber", "Donald Trump", "Iron Man", "Captain America", "The Hulk", "The Rock", "Lebron James", "Steph Curry", "Tom Cruise", "Jack Sparrow", "Elvis Presley", "grandpa" ];
+var names = [ "Poseidon", "the zombie", "Snoop Dogg", "Justin Beiber", "Donald Trump", "Iron Man", "Captain America", "The Hulk", "The Rock", "Lebron James", "Steph Curry", "Tom Cruise", "Jack Sparrow", "Elvis Presley", "grandpa", "Kanye West", "Tony Romo", "Tom Brady", "Leonardo DiCaprio", "Will Smith"];
 
 var places = ["School", "Disneyland", "the White House", "the International Space Station", "the Great Wall of China", "some random guy's house", "the cheapest bar in town", "a taxi", "a playground full of children", "a church", "the beach", "Six Flags", "the Supreme Court", "Hogwarts" ];
 
